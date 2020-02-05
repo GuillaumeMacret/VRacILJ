@@ -37,3 +37,17 @@ sysinfo.txt
 *.unitypackage
 
 .vscode/
+
+/Assets/
+/Builds/
+/EasyRoads3Dv3/
+/Library/
+/Logs/
+/obj/
+/Packages/
+/ProjectSettings/
+/Assembly-CSharp.csproj
+/Assembly-CSharp-Editor.csproj
+/References.md
+/TODO.md
+/VRacILJ.sln
